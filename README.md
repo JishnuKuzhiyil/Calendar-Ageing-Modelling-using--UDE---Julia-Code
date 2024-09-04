@@ -27,7 +27,7 @@ This repository provides a computational model for simulating the calendar agein
    A Single Particle Model with Electrolyte (SPMe) forms the base electrochemical model, coupled with additional degradation differential equations to describe Solid Electrolyte Interphase (SEI) growth and associated pore clogging. The degradation is modeled using diffusion-limited and kinetically-limited SEI growth models along with a linear pore clogging model.
 
 2. **UDE-Based Model**:  
-   A Single Particle Model with Electrolyte (SPMe) forms the base electrochemical model, coupled with additional degradation differential equations are modeled as Universal Differential Equations, incorporating neural networks into the differential equations to capture complex degradation behavior.
+   A Single Particle Model with Electrolyte (SPMe) forms the base electrochemical model, coupled with additional degradation differential equations are modeled as Universal Differential Equations, where neural networks are incorporated into the degradation differential equations to capture complex degradation behavior.
 
 ## Data Files
 
@@ -71,5 +71,41 @@ To run the model, follow these steps:
 ## Output
 
 Plots showing capacity and anode LAM measurements and corresponding model predictions.
-   
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+```
+MIT License
+
+Copyright (c) [2024] [Jishnu Ayyangatu Kuzhiyil]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## How to Cite
+
+If you use this software in your research, please cite our article:
+
+```
+Kuzhiyil, J. A., et al. (2024). Lithium-ion Battery Degradation Modelling using Universal Differential Equations: Development of a Cost-Effective Parameterisation Methodology. 
+```
+
 
