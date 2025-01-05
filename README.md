@@ -106,7 +106,10 @@ SOFTWARE.
 If you use this software in your research, please cite our article:
 
 ```
-Kuzhiyil, J. A., et al. (2024). Lithium-ion Battery Degradation Modelling using Universal Differential Equations: Development of a Cost-Effective Parameterisation Methodology. 
+Jishnu Ayyangatu Kuzhiyil, Theodoros Damoulas, Ferran Brosa Planella, W. Dhammika Widanage,
+Lithium-ion battery degradation modelling using universal differential equations: Development of a cost-effective parameterisation methodology,
+Applied Energy, Volume 382,2025,125221,ISSN 0306-2619,
+https://doi.org/10.1016/j.apenergy.2024.125221.
 ```
 
 
