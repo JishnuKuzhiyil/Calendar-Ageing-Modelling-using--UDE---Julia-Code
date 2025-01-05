@@ -5,7 +5,7 @@ This repository contains the implementation of a Lithium-ion Battery Calendar Ag
 ## **Authors and Affiliations**
 
 - **Jishnu Ayyangatu Kuzhiyil**  
-  WMG, University of Warwick, Coventry, UK\\
+  Warwick Manufacturing Group, University of Warwick, Coventry, UK
   The Faraday Institution, Quad One, Harwell Science and Innovation Campus, Didcot, UK  
   Email: [jishnu-ak.ayyangatu-kuzhiyil@warwick.ac.uk](mailto:jishnu-ak.ayyangatu-kuzhiyil@warwick.ac.uk)
 
@@ -18,7 +18,7 @@ This repository contains the implementation of a Lithium-ion Battery Calendar Ag
   Mathematics Institute, University of Warwick, Gibbet Hill Road, Coventry, CV4 7AL, UK
 
 - **W. Dhammika Widanage**  
-  WMG, University of Warwick, Coventry, UK
+  Warwick Manufacturing Group, University of Warwick, Coventry, UK
 
 ## **Model Overview**
 
